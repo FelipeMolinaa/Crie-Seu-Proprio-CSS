@@ -1,4 +1,4 @@
-# Crie Seu Proprio CSS 😎
+# Crie Seu Próprio CSS 😎
 
 ## Pra que isso???
 ***Eu criei esse repositório para fins de estudo, mas pensei que seria uma bela ideia disponibilizar a todos, então o fiz. Aqui você encontra um compiladão de Vídeos e artigos sobre css feito por brasileiros e também gringos e todos GRATUITOS.
